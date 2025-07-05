@@ -1,6 +1,7 @@
 # MOCA
 
 **Momentum Contrastive Learning with Dual-Stage Multi-Head Attention for Precise Spatial Domain Identification in Spatially Resolved Transcriptomics**
+
 This study presents MOCA, a momentum contrastive learning framework with multi-head attention for accurate spatial domain identification in spatial transcriptomics (ST) data.
 
 Specifically:
